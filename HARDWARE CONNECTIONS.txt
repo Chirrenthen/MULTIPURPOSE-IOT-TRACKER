@@ -1,0 +1,36 @@
+HARDWARE CONNECTIONS:-
+
+A9G Connections
+
+
+1.Power Supply:
+ VCC: Connect to a 5V source (from the voltage regulator).
+ GND: Connect to ground.
+ 
+ 
+2.Speaker:
+ SPK+: Connect to the positive terminal of the speaker.
+ SPK-: Connect to the negative terminal of the speaker.
+ 
+ 
+3.Buzzer:
+ Connect the buzzer’s positive terminal to GPIO pin (e.g., D5) and the negative terminal to ground.
+ Buttons:
+ 
+4.SOS Button: 
+ Connect one side to GPIO pin (e.g., D3) and the other side to ground.
+ 
+5.Call Button: 
+ Connect one side to GPIO pin (e.g., D4) and the other side to ground.
+
+6.A9G Serial Communication:
+ TX: Connect to RX of Xiao ESP32C3.
+ RX: Connect to TX of Xiao ESP32C3.
+
+7.Xiao ESP32C3:
+ VCC: Connect to a regulated 3.3V output from the A9G or an external 3.3V regulator.
+ GND: Connect to ground.
+
+8.Voltage Regulator
+ Input: Connect to a battery (e.g., LiPo).
+ Output: Connect to the VCC pins of both the A9G and Xiao ESP32C3.

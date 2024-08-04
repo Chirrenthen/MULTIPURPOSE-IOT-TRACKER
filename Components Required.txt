@@ -1,0 +1,22 @@
+Components Required:
+
+1. Seeed Studio XIAO ESP32C3  x1 
+
+2. Ai Thinker A9G GSM/GPRS+GPS/BDS Development Board x1
+
+3. Battery 3.7v 
+
+4. 10kΩ Resistor x2
+
+5. 2 pin JST XH 2.5mm Side Entry Header x2
+
+6. 2 pin JST XH, 2.5mm, One side Female with 30cm Wires x2
+
+7. Tactile Switch 6x6x13mm x2
+
+8. Bugstrip x1
+
+9. Rectangular Speaker - 2W / 8 ohm -70 x 30mm x1
+
+10. Gendral Purpose PCB BOARD (GPP Board)
+
